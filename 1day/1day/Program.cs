@@ -14,10 +14,13 @@ namespace _1day
         public string Addres { get; set; }
         private int year;
         public int Year { get; set; }
+
+
         public void print()
         {
             Console.WriteLine("Название" + Name + "Адресс" + Addres + "Год основания" + Year);
         }
+
         public void vrite()
         {
             Console.WriteLine("Введите название");
@@ -33,9 +36,20 @@ namespace _1day
             Addres = "ул. Октябрьская 57";
             Year = 1990;
         }
+
+        public Firm(string Name, string Addres, int Year)
+        {
+            this.Name = Name;
+            this.Addres = Addres;
+            this.Year = Year;
+        }
+
     }
+
     class Program
     {
+       
+
         static void Main(string[] args)
         {
             Firm name = new Firm();
