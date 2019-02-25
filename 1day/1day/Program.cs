@@ -14,13 +14,10 @@ namespace _1day
         public string Addres { get; set; }
         private int year;
         public int Year { get; set; }
-
-
         public void print()
         {
             Console.WriteLine("Название" + Name + "Адресс" + Addres + "Год основания" + Year);
         }
-
         public void vrite()
         {
             Console.WriteLine("Введите название");
@@ -37,16 +34,11 @@ namespace _1day
             Year = 1990;
         }
     }
-
     class Program
     {
-       
-
         static void Main(string[] args)
         {
-            Firm name = new Firm();
-            name.print();
-            Console.ReadKey();
+          
         }
     }
 }
