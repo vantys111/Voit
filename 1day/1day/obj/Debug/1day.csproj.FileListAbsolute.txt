@@ -1,0 +1,7 @@
+D:\Занятия\GIT\1day\1day\bin\Debug\1day.exe.config
+D:\Занятия\GIT\1day\1day\bin\Debug\1day.exe
+D:\Занятия\GIT\1day\1day\bin\Debug\1day.pdb
+D:\Занятия\GIT\1day\1day\obj\Debug\1day.csprojAssemblyReference.cache
+D:\Занятия\GIT\1day\1day\obj\Debug\1day.csproj.CoreCompileInputs.cache
+D:\Занятия\GIT\1day\1day\obj\Debug\1day.exe
+D:\Занятия\GIT\1day\1day\obj\Debug\1day.pdb
