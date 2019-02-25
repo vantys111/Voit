@@ -38,7 +38,9 @@ namespace _1day
     {
         static void Main(string[] args)
         {
-          
+            Firm name = new Firm();
+            name.print();
+            Console.ReadKey();
         }
     }
 }
